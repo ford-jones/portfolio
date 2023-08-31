@@ -1,8 +1,9 @@
 import React from "react";
+import Home from "./components/Home"
 
 function App() {
   return (
-    <h1>A simple test</h1>
+    <Home />
   );
 }
 
